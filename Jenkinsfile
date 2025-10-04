@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building...'
+                echo 'Building the nothing in fast to learn jenkins...'
             }
         }
         stage('Test') {
